@@ -1,2 +1,2 @@
-# Mini-Ray-Tracer
+# Tiny-Ray-Tracer
 Ray Tracing
