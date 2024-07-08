@@ -18,6 +18,8 @@ cmake .. -G"Unix Makefiles"
 
 ![image](https://github.com/tuananohut/Tiny-Ray-Tracer/assets/57767763/634617ba-e4f6-4822-8d0b-dc94677cc4cb)
 
+![image](https://github.com/tuananohut/Tiny-Ray-Tracer/assets/57767763/9a33f91f-bf48-462f-8290-12155ee65fbf)
+
 
 ### Useful Resources to learn Ray Tracing:
 
