@@ -6,6 +6,10 @@ I am working on ray tracing.
 
 cmake .. -G"Unix Makefiles"
 
+make 
+
+./tinyraytracer
+
 ## Examples:
 
 ![image](https://github.com/tuananohut/Tiny-Ray-Tracer/assets/57767763/d348ec5d-1472-4464-9327-bdde43fb9fb4)
@@ -32,3 +36,6 @@ https://raytracing.github.io/books/RayTracingTheNextWeek.html
 https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html
 
 https://www.pbr-book.org/
+
+
+
